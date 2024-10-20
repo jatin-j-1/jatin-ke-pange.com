@@ -1,18 +1,18 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Jatin Kumar' ke pange </title>
+    <title>JATIN KUMR KE PANGE </title>
     <style>
         body {
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-color:#000080
+            background-color:#DEB887
         }
         header {
-            background-color: #008000
+            background-color: #800080
             color: sky blue;
             padding: 20px 0;
             text-align: center;
@@ -22,10 +22,10 @@
             font-size: 2.5rem;
         }
         nav {
-            margin: 20px 0;
+            margin: 25px 0;
         }
         nav a {
-            color: white;
+            color: BLACK;
             text-decoration: none;
             margin: 0 15px;
         }
@@ -38,7 +38,7 @@
             margin-bottom: 20px;
         }
         #about, #projects, #skills, #contact {
-            background-color: white;
+            background-color:F5F5DC ;
             margin: 20px;
             padding: 40px;
             border-radius: 10px;
@@ -50,12 +50,12 @@
             flex-wrap: wrap;
         }
         .project-item {
-            background-color: #4682B4;
+            background-color: #FFF8DC;
             margin: 10px;
             padding: 20px;
             width: 30%;
             border-radius: 10px;
-            box-shadow: 0px 4px 8px rgba(0,0,0,0.1);
+            box-shadow:10px 4px 8px rgba(0,0,0,0.1);
         }
         footer {
             background-color: #008080;
@@ -81,7 +81,7 @@
 <!-- About Section -->
 <section id="about">
     <h2>About Me</h2>
-    <p>Hello! JANTE HO TUM MERE BARE MAIN KI MAIN KON HU,   AGER JANTE HOGE TO Y THODI PADTE , APPMERE BARE MAIN JANNE AAYE HO YHA TO KUCH JAN KAR HI JANA     BOLO  JAY  PAPA KI   ....  .</p>
+    <p>Hello! JANTE HO TUM MERE BARE MAIN KI MAIN KON HU,   AGER JANTE HOTE TO YE THODI PADTE , APPMERE BARE MAIN JANNE AAYE HO YHA TO KUCH JAN KAR HI JANA     BOLO  JAY  PAPA KI   ....  .</p>
 </section>
 
 <!-- Projects Section -->
