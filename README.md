@@ -9,7 +9,7 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-color:#000080
+            background-color:#00ffff
         }
         header {
             background-color: #008000
@@ -38,7 +38,7 @@
             margin-bottom: 20px;
         }
         #about, #projects, #skills, #contact {
-            background-color: white;
+            background-color:gray ;
             margin: 20px;
             padding: 40px;
             border-radius: 10px;
@@ -50,7 +50,7 @@
             flex-wrap: wrap;
         }
         .project-item {
-            background-color: #4682B4;
+            background-color: #008080;
             margin: 10px;
             padding: 20px;
             width: 30%;
@@ -69,7 +69,7 @@
 
 <!-- Header Section -->
 <header>
-    <h1>Jatin Kumar'KE PANGE</h1>
+    <h1>Jatin Kumar.com</h1>
     <nav>
         <a href="#about">About Me</a>
         <a href="#projects">Projects</a>
@@ -94,12 +94,15 @@
             <p>A  TO   APPKA KOI BHI PHONE HO   KOI BHI  USME KUCH BHI HUAA HO TO APP YHA  AA SAKTE HO YHA SABHI PRKAR KE PHONE MILTE H SAMJHE KYA  SABHI MATLB SABHI.</p>
         </div>
         <div class="project-item">
-            <h3>Project 2: DHAMO MAIN KHANA BNANE KA GYAN</h3>
-            <p>TO AGER APPKO KABHI BHI KISI DHAM MAIN KHANA BNANA H TO APP MERE SE BATT KAR SAKTE H KIKESE BNAYE SAMJHE NA .</p>
+            <h3>Project 2: my dream </h3>
+            <p>........................................................................................................................................... .</p>
         </div>
         <div class="project-item">
-            <h3>Project 3: BANDER KO BHGANE KA TARIKA</h3>
-            <p>TO APKO PTA H KI BANDER KISE KAHTE H NHI TO NIKL JAO YHA SE ,, YHA PAR BANDERO  KO KHETO  SE BHGANE KA KAM KIYA JTA H SAMJHE KYA .</p>
+            <h3>Project 3: Shayari Writing</h3>
+            <p>दीपक की रोशनी में, मैं बुनता हूँ ख्वाब,
+हर लफ्ज़ में छिपा है, मोहब्बत का जवाब।
+शायरी की इस दुनिया में, मेरे अल्फाज़ हैं खास,
+आओ, पढ़ें साथ मिलकर, दिल के हर एहसास। .</p>
         </div>
     </div>
 </section>
@@ -109,7 +112,7 @@
     <h2>My Skills</h2>
     <p>ye rahi meri kuch uplabhdhiya jo maine ase hi hasil kar li h   :</p>
     <ul>
-        <li>HTML, and JavaScript</li>
+        <li>HTML,</li>
        
       <li>Phone and Electronics Repair</li>
        
@@ -121,7 +124,7 @@
 <section id="contact">
     <h2>Contact Me</h2>
     <p>TO APPKO MERA YE KAM ACHA LGA TO APP MESSEG YA CLL KAR SAKTE DIYE NO PAR SAMJHE!</p>
-    <p>Email: <a href="mailto:jk4521948gmail.com">jatin@example.com</a></p>
+    <p>Email: <a href="mailto:jk4521948gmail.com">jk4521948@gmail.com</a></p>
     <p>Phone: +91 7018424304</p>
 </section>
 
