@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>Document</title>
+  
 </head>
 <body background="html/07.jpg">
 
