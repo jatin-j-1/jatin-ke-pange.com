@@ -4,7 +4,7 @@
 </head>
 <body background="html/07.jpg">
 
-<table border="0"width="100%"height="1000px"> 
+<table border="0"width="100%"height="1000px">
 <!----Row1---->
 <tr>
 <th>jatin kumar.com</th>
